@@ -6,6 +6,9 @@ public class App {
 		if(data.equals(Constant.DATA_TYPE)) {
 			System.out.println(" welcome");
 		}
+		public void addmethod(){
+		System.out.println("new method is added");
+		}
 			}
 
 	public static void main(String[] args) {
